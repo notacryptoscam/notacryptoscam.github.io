@@ -1,0 +1,14 @@
+.price{
+	display:inline;
+	color: #000000;
+}
+
+.priceRed{
+	display:inline;
+	color: #e03838;
+}
+
+.priceGreen{
+	display:inline;
+	color: #32a852;
+}
