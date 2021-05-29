@@ -34,8 +34,5 @@ function updateValues()
 		document.getElementById("priceTag").innerHTML = "$" + newPrice.toFixed(2);
 	}
 	
-	document.getElementById("sendPrice").innerHTML = "$" + newPrice.toFixed(2);
-	
-	console.log("Old Price: " + initPrice + " New Price: " + newPrice);
 	initPrice = newPrice;
 }
