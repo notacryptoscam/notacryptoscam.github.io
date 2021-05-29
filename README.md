@@ -1,0 +1,1 @@
+# notacryptoscam.github.io
